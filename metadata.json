@@ -1,0 +1,11 @@
+{
+  "name": "AgriOS Uganda Official v",
+  "description": "Unified National Agricultural Lifecycle Engine combining AgriTrace, HarvestShield, and SiloLink.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
